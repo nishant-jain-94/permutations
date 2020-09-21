@@ -1,4 +1,4 @@
-# Mongrov Permutations
+# Permutations
 
 ## Running Test Cases
 ```bash
